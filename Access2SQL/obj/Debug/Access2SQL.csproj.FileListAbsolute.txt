@@ -1,0 +1,9 @@
+C:\inetpub\wwwroot\Access2SQL\Access2SQL\bin\Debug\Access2SQL.exe.config
+C:\inetpub\wwwroot\Access2SQL\Access2SQL\bin\Debug\Access2SQL.exe
+C:\inetpub\wwwroot\Access2SQL\Access2SQL\bin\Debug\Access2SQL.pdb
+C:\inetpub\wwwroot\Access2SQL\Access2SQL\obj\Debug\Access2SQL.csprojResolveAssemblyReference.cache
+C:\inetpub\wwwroot\Access2SQL\Access2SQL\obj\Debug\Access2SQL.Properties.Resources.resources
+C:\inetpub\wwwroot\Access2SQL\Access2SQL\obj\Debug\Access2SQL.csproj.GenerateResource.Cache
+C:\inetpub\wwwroot\Access2SQL\Access2SQL\obj\Debug\Access2SQL.exe
+C:\inetpub\wwwroot\Access2SQL\Access2SQL\obj\Debug\Access2SQL.pdb
+C:\inetpub\wwwroot\Access2SQL\Access2SQL\obj\Debug\Access2SQL.Form1.resources
